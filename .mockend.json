@@ -1,5 +1,6 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "LogEntry": {
+    "timestamp": { "dateTime": {} },
+    "message": { "string": {} }
   }
 }
